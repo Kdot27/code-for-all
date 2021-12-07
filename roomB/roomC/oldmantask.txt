@@ -1,0 +1,3 @@
+.. is the parent directory and follows after a cd to take you there.
+/ is the root directory.
+. is the current directory.
